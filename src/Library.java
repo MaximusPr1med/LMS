@@ -7,7 +7,7 @@ import java.util.List;
  * Name: Max Shoemaker
  * Course: CEN 3024C
  * Date: 5/18/2024
- * Class Name: Book
+ * Class Name: Library
  * This class manages the library of books, allowing the user to add, remove, list, and sort books.
  */
 public class Library {
